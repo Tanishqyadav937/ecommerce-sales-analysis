@@ -1,0 +1,17 @@
+Date,Product,Category,Quantity,Unit_Price,Revenue,Cost,Profit,Customer_ID,Region
+2023-01-15,Laptop,Electronics,1,1250,1250,625,625,1234,North
+2023-01-16,Phone,Electronics,2,850,1700,850,850,1567,South
+2023-01-17,Headphones,Accessories,3,145,435,217.5,217.5,1890,East
+2023-01-18,Monitor,Electronics,1,420,420,210,210,2103,West
+2023-01-19,Keyboard,Accessories,2,95,190,95,95,1234,North
+2023-01-20,Mouse,Accessories,4,55,220,110,110,2456,South
+2023-01-21,Tablet,Electronics,1,520,520,260,260,1789,East
+2023-01-22,Charger,Accessories,5,28,140,70,70,2012,West
+2023-01-23,Laptop,Electronics,1,1180,1180,590,590,1345,North
+2023-01-24,Phone,Electronics,1,820,820,410,410,1678,South
+2023-01-25,Headphones,Accessories,2,155,310,155,155,1923,East
+2023-01-26,Monitor,Electronics,2,390,780,390,390,2234,West
+2023-01-27,Keyboard,Accessories,1,105,105,52.5,52.5,1456,North
+2023-01-28,Mouse,Accessories,3,48,144,72,72,1789,South
+2023-01-29,Tablet,Electronics,1,510,510,255,255,2045,East
+2023-01-30,Charger,Accessories,2,32,64,32,32,1567,West
